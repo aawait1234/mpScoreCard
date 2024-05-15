@@ -21,11 +21,6 @@ var FRIENDS = [
         name: "Princess Puppy Lovr",
         ticksUrl: "https://www.mountainproject.com/user/200286072/princess-puppy-lovr/ticks"
     },
-    {
-        name: "Chode Rider",
-        ticksUrl: "https://www.mountainproject.com/user/200903515/daniel-chode-rider/ticks"
-    }
-
 ];
 
 
